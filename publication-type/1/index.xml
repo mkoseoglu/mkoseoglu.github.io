@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Academic</title>
+    <title>1 | Mehmet Koseoglu</title>
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
@@ -13,22 +13,99 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Random Forest Classification of Finger Movements using Electromyogram (EMG) Signals</title>
+      <link>/publication/findik-random-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/findik-random-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quick Question: Interrupting Users for Microtasks with Reinforcement Learning</title>
+      <link>/publication/ho-quick-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ho-quick-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to miss data? Reinforcement learning for environments with high observation cost</title>
+      <link>/publication/koseoglu-how-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/koseoglu-how-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DEEP Reinforcement Learning Based Energy Beamforming for Powering Sensor Networks</title>
+      <link>/publication/ozcelikkale-deep-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ozcelikkale-deep-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nurture: Notifying Users at the Right Time Using Reinforcement Learning</title>
+      <link>/publication/ho-nurture-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ho-nurture-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization vs. Reinforcement Learning for Wirelessly Powered Sensor Networks</title>
+      <link>/publication/ozcelikkale-optimization-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ozcelikkale-optimization-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Battery-powered AUV network lifetime under energy constraints</title>
+      <link>/publication/bereketli-battery-powered-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/bereketli-battery-powered-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance analysis of small data transmission schemes for cellular M2M communications</title>
+      <link>/publication/koseoglu-performance-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/koseoglu-performance-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connectivity analysis of an AUV network with OFDM based communications</title>
+      <link>/publication/bereketli-connectivity-2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/bereketli-connectivity-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic broadcast for dense AUV networks</title>
+      <link>/publication/koseoglu-probabilistic-2016/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/koseoglu-probabilistic-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart pricing for service differentiation and load control of the LTE-A IoT system</title>
+      <link>/publication/koseoglu-smart-2015/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/koseoglu-smart-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint path and resource selection for OBS grids with adaptive offset based QoS mechanism</title>
+      <link>/publication/koseoglu-joint-2007/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/koseoglu-joint-2007/</guid>
+      <description></description>
     </item>
     
   </channel>

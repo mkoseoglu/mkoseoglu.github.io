@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
+    <title>Publications | Mehmet Koseoglu</title>
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,22 +13,163 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>/publication/example/</link>
+      <title>Random Forest Classification of Finger Movements using Electromyogram (EMG) Signals</title>
+      <link>/publication/findik-random-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/findik-random-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quick Question: Interrupting Users for Microtasks with Reinforcement Learning</title>
+      <link>/publication/ho-quick-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ho-quick-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to miss data? Reinforcement learning for environments with high observation cost</title>
+      <link>/publication/koseoglu-how-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/koseoglu-how-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DEEP Reinforcement Learning Based Energy Beamforming for Powering Sensor Networks</title>
+      <link>/publication/ozcelikkale-deep-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ozcelikkale-deep-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nurture: Notifying Users at the Right Time Using Reinforcement Learning</title>
+      <link>/publication/ho-nurture-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ho-nurture-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization vs. Reinforcement Learning for Wirelessly Powered Sensor Networks</title>
+      <link>/publication/ozcelikkale-optimization-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ozcelikkale-optimization-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Battery-powered AUV network lifetime under energy constraints</title>
+      <link>/publication/bereketli-battery-powered-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/bereketli-battery-powered-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Layer Energy Minimization for Underwater ALOHA Networks</title>
+      <link>/publication/koseoglu-cross-layer-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/koseoglu-cross-layer-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance analysis of small data transmission schemes for cellular M2M communications</title>
+      <link>/publication/koseoglu-performance-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/koseoglu-performance-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pricing-Based Load Control of M2M Traffic for the LTE-A Random Access Channel</title>
+      <link>/publication/koseoglu-pricing-based-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/koseoglu-pricing-based-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connectivity analysis of an AUV network with OFDM based communications</title>
+      <link>/publication/bereketli-connectivity-2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/bereketli-connectivity-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic broadcast for dense AUV networks</title>
+      <link>/publication/koseoglu-probabilistic-2016/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/koseoglu-probabilistic-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lower Bounds on the LTE-A Average Random Access Delay Under Massive M2M Arrivals</title>
+      <link>/publication/koseoglu-lower-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/koseoglu-lower-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart pricing for service differentiation and load control of the LTE-A IoT system</title>
+      <link>/publication/koseoglu-smart-2015/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/koseoglu-smart-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy-Optimum Throughput and Carrier Sensing Rate in CSMA-Based Wireless Networks</title>
+      <link>/publication/koseoglu-energy-optimum-2014/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/koseoglu-energy-optimum-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-Temporal Analysis of Throughput for Single-Hop CSMA Networks</title>
+      <link>/publication/koseoglu-spatio-temporal-2014/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/koseoglu-spatio-temporal-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Throughput Modeling of Single Hop CSMA Networks with Non-Negligible Propagation Delay</title>
+      <link>/publication/koseoglu-throughput-2013/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>/publication/koseoglu-throughput-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of network density and size on the short-term fairness performance of CSMA systems</title>
+      <link>/publication/koseoglu-effect-2012/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/koseoglu-effect-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint resource and network scheduling with adaptive offset determination for optical burst switched grids</title>
+      <link>/publication/koseoglu-joint-2010/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/koseoglu-joint-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint path and resource selection for OBS grids with adaptive offset based QoS mechanism</title>
+      <link>/publication/koseoglu-joint-2007/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/koseoglu-joint-2007/</guid>
+      <description></description>
     </item>
     
   </channel>

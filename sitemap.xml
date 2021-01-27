@@ -3,18 +3,348 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/example-talk/</loc>
+    <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/classification/</loc>
+    <lastmod>2021-01-26T18:01:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/electromyogram-signals/</loc>
+    <lastmod>2021-01-26T18:01:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/electromyography/</loc>
+    <lastmod>2021-01-26T18:01:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/feature-extraction/</loc>
+    <lastmod>2021-01-26T18:01:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/feature-selection/</loc>
+    <lastmod>2021-01-26T18:01:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/machine-learning/</loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/muscles/</loc>
+    <lastmod>2021-01-26T18:01:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/random-forests/</loc>
+    <lastmod>2021-01-26T18:01:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/sensor-phenomena-and-characterization/</loc>
+    <lastmod>2021-01-26T18:01:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/task-analysis/</loc>
+    <lastmod>2021-01-26T18:01:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/time-series-analysis/</loc>
+    <lastmod>2021-01-26T18:01:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-26T18:01:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/findik-random-2020/</loc>
+    <lastmod>2021-01-26T18:01:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-26T18:01:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/computer-science-artificial-intelligence/</loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/computer-science-human-computer-interaction/</loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/computer-science-machine-learning/</loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ho-quick-2020/</loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-26T18:01:12+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/koseoglu-how-2020/</loc>
+    <lastmod>2021-01-26T18:01:12+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/array-signal-processing/</loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/batteries/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/deep-reinforcement-learning-based-approach/</loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/energy-beacon/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/energy-beamformer/</loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/energy-beamforming/</loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/energy-harvesting/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/harvested-energy/</loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/learning-artificial-intelligence/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/mean-square-error-methods/</loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/multilayer-neural-networks/</loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/multilayer-perceptrons/</loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/neural-networks/</loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/nonlinear-energy-harvesting-models/</loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/optimal-energy/</loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/optimal-transmit-power-allocation/</loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/optimization/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/powering-sensor-networks/</loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/reinforcement-learning/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/resource-allocation/</loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/resource-management/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/rl/</loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/sensors/</loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/system-model/</loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/telecommunication-computing/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/telecommunication-power-management/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/unknown-signal/</loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/wireless-communications/</loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/wireless-sensor-network/</loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/wireless-sensor-networks/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ozcelikkale-deep-2019/</loc>
+    <lastmod>2021-01-26T18:10:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
   </url>
   
   <url>
@@ -25,6 +355,911 @@
   <url>
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/interruptibility/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/push-notification/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/user-interaction/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ho-nurture-2018/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/battery-level-information/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/channel-state-information/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/data-models/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/data-transmission-powers/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/deep-reinforcement-learning-approach/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/energy-allocation/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/energy-harvesting-characteristics/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/field-reconstruction-error-minimization/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/node-utility-function-utility-function/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/nonlinear-eh-models/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/optimal-power-allocation-strategies/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/optimisation/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/optimization-approach/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/sensing-application/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/sensor-nodes/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/standard-ideal-linear-energy-harvesting-model/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/wireless-communication/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/wirelessly-powered-sensor-networks/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ozcelikkale-optimization-2018/</loc>
+    <lastmod>2021-01-26T18:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/5g-mobile-communication/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/access-protocols/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ad-hoc-networks/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/aloha-mac-layer/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/aloha/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/area-mapping/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/autonomous-underwater-vehicle-technology/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/autonomous-underwater-vehicles/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/auv-nodes/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/base-stations/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/battery-powered-vehicles/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/battery-powered-auv-network-lifetime/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/bit-error-rate/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cellular-m2m-communications/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cellular-radio/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/channel-access-procedures/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cobalt/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cross-layer-design/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cross-layer-energy-minimization/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cross-layer-optimization-problem/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/data-communication/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/delays/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/energy-conservation/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/energy-consumption/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/energy-efficiency/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/energy-constrained-ad-hoc-auv-network/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/energy-optimum-channel-access-rate/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/frequency-dependent-attenuation/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/frequency-time-resource/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/homogeneous-energy-consumption-distribution/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/internet-of-things/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/iot-communications/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/iot-devices/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/joints/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/long-term-evolution/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/low-traffic-load-conditions/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/lte-channel-access/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/machine-to-machine-communications/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/message-transmissions/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/minimization/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/mobile-nodes/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/multiaccess-communication/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/multiple-access-control-mac/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/multiple-access-control-layers/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/next-generation-wireless-communications/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ofdm/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/power-consumption/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/preamble-initiated-contention/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/propagation-delay/</loc>
+    <lastmod>2021-01-26T18:01:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/protocol/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/protocols/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/remote-intelligence/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/remotely-operated-vehicles/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/small-data-transmission-schemes/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/state-of-the-art-cellular-standards/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/tactical-surveillance/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/telecommunication-network-routing/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/telecommunication-traffic/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/throughput/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/topology/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/transmission-properties/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/underwater-acoustic-communication/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/underwater-acoustic-networks/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/underwater-aloha-networks/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/underwater-medium/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/underwater-networks/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/underwater-node-recharging/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/wireless-channels/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2021-01-26T18:01:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bereketli-battery-powered-2017/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/koseoglu-cross-layer-2017/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-26T18:01:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/koseoglu-performance-2017/</loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-26T18:10:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/4g-mobile-communication/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/access-delay/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cellular-infrastructures/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cellular-m2m-traffic/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/delay-tolerant-messages/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/delay-tolerant-metering-applications/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/fixed-service-class/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/high-priority-messages/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/iot-applications/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/limited-service-differentiation/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/load-flow-control/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/load-regulation/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/low-cost-wireless-access/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/lte-a-random-access-channel/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/machine-to-machine-communication/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/machine-to-machine-traffic/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/pricing/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/pricing-based-load-control/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/proposals/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/revenue-maximization/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/security-applications/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/semisynchronized-m2m-arrivals/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/stringent-requirements/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/telecommunication-congestion-control/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/throughput-maximization/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/koseoglu-pricing-based-2017/</loc>
+    <lastmod>2021-01-26T18:01:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/at-sea-experiments/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/autocorrelation/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/autonomous-underwater-vehicle/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/auv-network/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/binary-phase-shift-keying/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/bpsk-modulation/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/commercial-applications/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/communication-protocols/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/connectivity-analysis/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/connectivity/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/correlation-methods/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cyclic-prefix/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/doppler-compensation/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/doppler-shift/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/doppler-distorted-channels/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/error-rate-levels/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/error-statistics/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ldpc-coding/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/low-density-parity-check-coding/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ofdm-based-communications/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ofdm-communication/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ofdm-modulation/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/parity-check-codes/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/qpsk-modulation/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/quadrature-phase-shift-keying/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/real-life-orthogonal-frequency-division-multiplexing/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/scientific-applications/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/shallow-water-pond/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/tactical-applications/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/transducers/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/underwater-acoustics/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/varying-transducer-characteristics/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bereketli-connectivity-2017/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/broadcasting/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/dense-auv-networks/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/floods/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/probabilistic-broadcast/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/probabilistic-logic/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/storms/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/upper-bound/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/koseoglu-probabilistic-2016/</loc>
+    <lastmod>2021-01-26T18:10:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/3gpp/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/beta-distributed-arrivals/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/estimation/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/long-term-evolution-advanced-performance/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/lte-a-average-random-access-delay/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/massive-m2m-arrivals/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/mathematical-analysis/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/practical-load-balancing-algorithm/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/radio-access-networks/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/regular-traffic-pattern/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/koseoglu-lower-2016/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
   </url>
   
   <url>
@@ -40,16 +1275,6 @@
   <url>
     <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -98,28 +1323,413 @@
   </url>
   
   <url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>/tag/access-probability/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/example/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>/tag/channel-access-phase/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>/tag/channel-estimation/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>/tag/delay-sensitive-nodes/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/human-generated-traffic/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/internet-of-things-market/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/iot-market/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/load-control-methods/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/lte-a-standard/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/lte-a/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/lte-advanced-standard/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/m2m-communications/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/m2m-devices/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/machine-to-machine/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/optimized-production-technology/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/optimum-load-controller/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/performance-evaluation/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/service-differentiation-method/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/service-requirements/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/short-message-transmission/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/telecommunication-services/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/koseoglu-smart-2015/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/access-schemes/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/analytical-models/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/carrier-sense-multiple-access/</loc>
+    <lastmod>2021-01-26T18:01:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/carrier-sensing-rate/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/conflict-graph/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/csma-based-wireless-networks/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/energy-budget/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/energy-optimum-throughput/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/graph-theory/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/markov-processes/</loc>
+    <lastmod>2021-01-26T18:01:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/multihop-network/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/performance-analysis/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/radio-networks/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/single-hop-network/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/spread-spectrum-communication/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/transmitted-bit-maximization/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/koseoglu-energy-optimum-2014/</loc>
+    <lastmod>2021-01-26T18:01:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/approximation-theory/</loc>
+    <lastmod>2021-01-26T18:01:09+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/computational-modeling/</loc>
+    <lastmod>2021-01-26T18:01:09+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/linear-approximation/</loc>
+    <lastmod>2021-01-26T18:01:09+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/nonpersistent-csma-networks/</loc>
+    <lastmod>2021-01-26T18:01:09+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/numerical-models/</loc>
+    <lastmod>2021-01-26T18:01:09+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/packet-transmission-time/</loc>
+    <lastmod>2021-01-26T18:01:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/single-hop-csma-networks/</loc>
+    <lastmod>2021-01-26T18:01:09+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/single-hop-csma/</loc>
+    <lastmod>2021-01-26T18:01:09+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/spatial-node-distribution/</loc>
+    <lastmod>2021-01-26T18:01:09+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/spatio-temporal-analysis/</loc>
+    <lastmod>2021-01-26T18:01:09+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/spatiotemporal-analysis/</loc>
+    <lastmod>2021-01-26T18:01:09+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/spatiotemporal-phenomena/</loc>
+    <lastmod>2021-01-26T18:01:09+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/throughput-expression/</loc>
+    <lastmod>2021-01-26T18:01:09+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/throughput-model/</loc>
+    <lastmod>2021-01-26T18:01:09+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/koseoglu-spatio-temporal-2014/</loc>
+    <lastmod>2021-01-26T18:01:09+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/backoff-mechanism/</loc>
+    <lastmod>2021-01-26T18:01:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/carrier-sense-multiple-access-csma/</loc>
+    <lastmod>2021-01-26T18:01:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/channel-capacity/</loc>
+    <lastmod>2021-01-26T18:01:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/collision-avoidance/</loc>
+    <lastmod>2021-01-26T18:01:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/csma-channel-capacity/</loc>
+    <lastmod>2021-01-26T18:01:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/csma-protocol/</loc>
+    <lastmod>2021-01-26T18:01:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ieee-802.11-standards/</loc>
+    <lastmod>2021-01-26T18:01:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/large-propagation-delay/</loc>
+    <lastmod>2021-01-26T18:01:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/network-throughput-modeling/</loc>
+    <lastmod>2021-01-26T18:01:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/nonnegligible-propagation-delay/</loc>
+    <lastmod>2021-01-26T18:01:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/optimum-probing-rate/</loc>
+    <lastmod>2021-01-26T18:01:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/optimum-symmetric-probing-rate/</loc>
+    <lastmod>2021-01-26T18:01:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/packet-radio-networks/</loc>
+    <lastmod>2021-01-26T18:01:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/semimarkov-model/</loc>
+    <lastmod>2021-01-26T18:01:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/short-term-unfairness-problem/</loc>
+    <lastmod>2021-01-26T18:01:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/wireless-networks/</loc>
+    <lastmod>2021-01-26T18:01:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/zero-delay-capacity/</loc>
+    <lastmod>2021-01-26T18:01:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/koseoglu-throughput-2013/</loc>
+    <lastmod>2021-01-26T18:01:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/koseoglu-effect-2012/</loc>
+    <lastmod>2021-01-26T18:01:10+03:00</lastmod>
   </url>
   
   <url>
     <loc></loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-26T18:01:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/grid-computing/</loc>
+    <lastmod>2021-01-26T18:01:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/grid-network-provisioning/</loc>
+    <lastmod>2021-01-26T18:01:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/grid-resource-provisioning/</loc>
+    <lastmod>2021-01-26T18:01:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/optical-burst-switching/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/koseoglu-joint-2010/</loc>
+    <lastmod>2021-01-26T18:01:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/grid-networking/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/koseoglu-joint-2007/</loc>
+    <lastmod>2021-01-26T18:10:07+03:00</lastmod>
   </url>
   
 </urlset>

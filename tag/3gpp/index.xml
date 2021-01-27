@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;3GPP&#34; | Mehmet Koseoglu</title>
+    <link>/tag/3gpp/</link>
+      <atom:link href="/tag/3gpp/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;3GPP&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;3GPP&#34;</title>
+      <link>/tag/3gpp/</link>
+    </image>
+    
+    <item>
+      <title>Lower Bounds on the LTE-A Average Random Access Delay Under Massive M2M Arrivals</title>
+      <link>/publication/koseoglu-lower-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/koseoglu-lower-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

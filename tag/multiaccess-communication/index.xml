@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Multiaccess communication&#34; | Mehmet Koseoglu</title>
+    <link>/tag/multiaccess-communication/</link>
+      <atom:link href="/tag/multiaccess-communication/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Multiaccess communication&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Multiaccess communication&#34;</title>
+      <link>/tag/multiaccess-communication/</link>
+    </image>
+    
+    <item>
+      <title>Performance analysis of small data transmission schemes for cellular M2M communications</title>
+      <link>/publication/koseoglu-performance-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/koseoglu-performance-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pricing-Based Load Control of M2M Traffic for the LTE-A Random Access Channel</title>
+      <link>/publication/koseoglu-pricing-based-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/koseoglu-pricing-based-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lower Bounds on the LTE-A Average Random Access Delay Under Massive M2M Arrivals</title>
+      <link>/publication/koseoglu-lower-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/koseoglu-lower-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy-Optimum Throughput and Carrier Sensing Rate in CSMA-Based Wireless Networks</title>
+      <link>/publication/koseoglu-energy-optimum-2014/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/koseoglu-energy-optimum-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-Temporal Analysis of Throughput for Single-Hop CSMA Networks</title>
+      <link>/publication/koseoglu-spatio-temporal-2014/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/koseoglu-spatio-temporal-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Throughput Modeling of Single Hop CSMA Networks with Non-Negligible Propagation Delay</title>
+      <link>/publication/koseoglu-throughput-2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/koseoglu-throughput-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
